@@ -20,7 +20,7 @@ The dotfiles might contain files from the HyDe config from [prasanthrangan/hyprd
 
 # Caution
 
-### ⚠ Dont know whether if you'll get the required outcome as it has some [HyDe](https://github.com/prasanthrangan/hyprdots) files and as i haven't tested this on a fresh Hyprland install. OR you could manually remove each and every HyDe files which again can be found in the [HyDe](https://github.com/prasanthrangan/hyprdots) repository. ⚠
+### ⚠ Dont know whether if you'll get the required outcome as it has some [HyDe](https://github.com/prasanthrangan/hyprdots) files and as i haven't tested this on a fresh Hyprland install. OR you could manually remove each and every HyDe files which again can be found in the [HyDe](https://github.com/prasanthrangan/hyprdots) repository as well as this. ⚠
 
 # Preview
 
