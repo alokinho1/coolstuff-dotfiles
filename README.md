@@ -4,7 +4,7 @@ dotfiles for hyprland
 The dotfiles might contain files from the HyDe config from [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) because i had HyDe installed before
 ### Always make a backup before it breaks your system
 
-Checkout before you proceed
+⚠️ Checkout [https://github.com/alokinho1/coolstuff-dotfiles/blob/main/README.md#caution](this) before you proceed ⚠️
 
 # Things you'd need
 
