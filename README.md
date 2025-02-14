@@ -4,6 +4,8 @@ dotfiles for hyprland
 The dotfiles might contain files from the HyDe config from [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) because i had HyDe installed before
 ### Always make a backup before it breaks your system
 
+Checkout before you proceed
+
 # Things you'd need
 
 1. [Hyprland](https://hyprland.org/)
@@ -16,11 +18,17 @@ The dotfiles might contain files from the HyDe config from [prasanthrangan/hyprd
 1. Clone this repo
 2. Paste all the files into your `/home/.config` folder except assets folder and github files
 
+# Caution
+
 ### ⚠ Dont know whether if you'll get the required outcome as it has some [HyDe](https://github.com/prasanthrangan/hyprdots) files and as i haven't tested this on a fresh Hyprland install. OR you could manually remove each and every HyDe files which again can be found in the [HyDe](https://github.com/prasanthrangan/hyprdots) repository. ⚠
 
 # Preview
 
 ![Alt Text](assets/250214_13h02m02s_screenshot.png)
+![Alt Text](assets/250214_13h02m30s_screenshot.png)
+
+
+# Credit where its due
 
 Side Note: These dotfiles/ configs are entirely not mine, thanks to the creators of these different configs for their amazing work!
 wallpaper: https://gruvbox-wallpapers.pages.dev/
