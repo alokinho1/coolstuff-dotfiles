@@ -20,7 +20,7 @@ The dotfiles might contain files from the HyDe config from [prasanthrangan/hyprd
 
 # Preview
 
-![Alt Text](/path/to/image.jpg)
+![Alt Text](assets/250214_13h02m02s_screenshot.png)
 
 Side Note: These dotfiles/ configs are entirely not mine, thanks to the creators of these different configs for their amazing work!
 wallpaper: https://gruvbox-wallpapers.pages.dev/
