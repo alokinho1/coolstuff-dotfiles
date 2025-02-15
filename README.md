@@ -13,7 +13,7 @@ The dotfiles might contain files from the HyDe config from [prasanthrangan/hyprd
 3. [Waybar](https://github.com/Alexays/Waybar)
 4. [Kitty](https://github.com/kovidgoyal/kitty)
 5. [Neofetch](https://github.com/dylanaraps/neofetch)
-6. [Various Fonts]
+6. Various Fonts
     - `yay -S noto-fonts-emoji noto-fonts terminus-font ttf-nerd-fonts-symbols-1000-em`
 
 # Installation
