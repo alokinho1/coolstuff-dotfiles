@@ -12,7 +12,7 @@ The dotfiles might contain files from the HyDe config from [prasanthrangan/hyprd
 2. [Rofi](https://github.com/davatorium/rofi)
 3. [Waybar](https://github.com/Alexays/Waybar)
 4. [Kitty](https://github.com/kovidgoyal/kitty)
-5. [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+5. [Neofetch](https://github.com/dylanaraps/neofetch)
 
 # Installation
 1. Clone this repo
